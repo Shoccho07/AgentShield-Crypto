@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work or benchmark in your research, please cite it as below."
+authors:
+- family-names: "Tanvir"
+  given-names: "Saiful Islam"
+title: "AgentShield-Crypto: Zero-Trust Cryptographic Identity and Cascading Anomaly Firewalls for Autonomous Multi-Agent Trading Systems"
+version: 1.0.0
+doi: 10.5281/zenodo.21878998
+date-released: 2026-08-11
+url: "https://github.com/YOUR_GITHUB_USERNAME/AgentShield-Crypto"
